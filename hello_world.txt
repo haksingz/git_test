@@ -1,1 +1,2 @@
-Some Changes to this Text
+TITLE:	Test Document
+BODY:   Trying to understand the git system
